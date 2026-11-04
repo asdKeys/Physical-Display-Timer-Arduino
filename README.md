@@ -1,8 +1,8 @@
-# [ARDUINO]Experimental
+# [ARDUINO]Physical LED Display(timer)
 
 ## About
 
-It's experimental.
+A physical LED display timer with Arduino.
 
 ## How to Use
 
